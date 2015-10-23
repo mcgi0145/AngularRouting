@@ -1,0 +1,13 @@
+{"items":[
+    {"id":1, "full_name":"Adam Sandler", "Rating":"6", "nickname":"Sandy", "price":99.99, "image":"/img/AdamSandler.jpg"},
+    {"id":2, "full_name":"Ashton Kutcher", "Rating":"8", "nickname":"Kutch", "price":89.99, "image":"/img/AshtonKutcher.jpg"},
+    {"id":3, "full_name":"Jaden Smith", "Rating":"10", "nickname":"Jade", "price":1099.99, "image":"/img/JadenSmith.jpg"},
+    {"id":4, "full_name":"Justin Timberlake", "Rating":"7", "nickname":"Lake", "price":9.99, "image":"/img/JustinTimberlake.jpg"},
+    {"id":5, "full_name":"Matt Damon", "Rating":"9", "nickname":"Matt", "price":309.99, "image":"/img/MattDamon.jpg"},
+    {"id":6, "full_name":"Steve Carell", "Rating":"8", "nickname":"Car", "price":49.99, "image":"/img/SteveCarell.jpg"},
+    {"id":7, "full_name":"Dwayne Johnson", "Rating":"10", "nickname":"The Rock", "price":99999.99, "image":"/img/TheRock.jpg"},
+    {"id":8, "full_name":"Vanilla Ice", "Rating":"7", "nickname":"IceIceBaby", "price":1.99, "image":"/img/VanillaIce.jpg"},
+    {"id":9, "full_name":"Vince Vaughn", "Rating":"9", "nickname":"Vince", "price":5599.99, "image":"/img/VinceVaughn.jpg"},
+    {"id":10, "full_name":"Will Ferrell", "Rating":"10", "nickname":"Will", "price":8909.99, "image":"/img/WillFerrell.jpg"},
+    {"id":11, "full_name":"Zooey Deschanel", "Rating":"10", "nickname":"Babe", "price":10999.99, "image":"/img/ZooeyDeschanel.jpg"}
+]}
